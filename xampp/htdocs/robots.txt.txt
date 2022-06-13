@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /stuff
+Disallow: /dashboard
+Disallow: /img
+Disallow: /xampp
+Disallow: /webalizer
+
+
+
+
+Sitemap: localhost

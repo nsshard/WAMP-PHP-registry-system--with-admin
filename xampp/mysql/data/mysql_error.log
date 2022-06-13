@@ -1,0 +1,374 @@
+2022-05-09 12:48:06 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-05-09 12:48:06 0 [Note] InnoDB: Uses event mutexes
+2022-05-09 12:48:06 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-05-09 12:48:06 0 [Note] InnoDB: Number of pools: 1
+2022-05-09 12:48:06 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-05-09 12:48:06 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-05-09 12:48:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-05-09 12:48:06 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=300288
+2022-05-09 12:48:06 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-05-09 12:48:06 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-05-09 12:48:06 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-05-09 12:48:06 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-05-09 12:48:06 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-05-09 12:48:06 0 [Note] InnoDB: Waiting for purge to start
+2022-05-09 12:48:06 0 [Note] InnoDB: 10.4.24 started; log sequence number 300297; transaction id 170
+2022-05-09 12:48:06 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-05-09 12:48:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-05-09 12:48:06 0 [Note] Server socket created on IP: '::'.
+2022-05-09 12:48:06 0 [Note] InnoDB: Buffer pool(s) load completed at 220509 12:48:06
+2022-05-09 12:48:06 0 [Note] Reading of all Master_info entries succeeded
+2022-05-09 12:48:06 0 [Note] Added new Master_info '' to hash table
+2022-05-09 12:48:06 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-05-09 12:48:11 0 [Note] c:\xampp\mysql\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-05-09 12:48:11 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-05-09 12:48:11 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-05-09 12:48:11 0 [Note] InnoDB: Starting shutdown...
+2022-05-09 12:48:11 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\mysql\data\ib_buffer_pool
+2022-05-09 12:48:11 0 [Note] InnoDB: Instance 0, restricted to 250 pages due to innodb_buf_pool_dump_pct=25
+2022-05-09 12:48:11 0 [Note] InnoDB: Buffer pool(s) dump completed at 220509 12:48:11
+2022-05-09 12:48:12 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-05-09 12:48:12 0 [Note] InnoDB: Shutdown completed; log sequence number 300315; transaction id 171
+2022-05-09 12:48:12 0 [Note] c:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2022-05-09 12:49:04 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-05-09 12:49:04 0 [Note] InnoDB: Uses event mutexes
+2022-05-09 12:49:04 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-05-09 12:49:04 0 [Note] InnoDB: Number of pools: 1
+2022-05-09 12:49:04 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-05-09 12:49:04 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-05-09 12:49:04 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-05-09 12:49:04 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-05-09 12:49:04 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-05-09 12:49:04 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-05-09 12:49:04 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-05-09 12:49:04 0 [Note] InnoDB: Waiting for purge to start
+2022-05-09 12:49:04 0 [Note] InnoDB: 10.4.24 started; log sequence number 300315; transaction id 170
+2022-05-09 12:49:04 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-05-09 12:49:04 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-05-09 12:49:04 0 [Note] InnoDB: Buffer pool(s) load completed at 220509 12:49:04
+2022-05-09 12:49:04 0 [Note] Server socket created on IP: '::'.
+2022-05-09 12:49:05 0 [Note] Reading of all Master_info entries succeeded
+2022-05-09 12:49:05 0 [Note] Added new Master_info '' to hash table
+2022-05-09 12:49:05 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-05-10  2:50:43 0 [Note] c:\xampp\mysql\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-05-10  2:50:43 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-05-10  2:50:43 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-05-10  2:50:43 0 [Note] InnoDB: Starting shutdown...
+2022-05-10  2:50:43 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\mysql\data\ib_buffer_pool
+2022-05-10  2:50:43 0 [Note] InnoDB: Instance 0, restricted to 250 pages due to innodb_buf_pool_dump_pct=25
+2022-05-10  2:50:43 0 [Note] InnoDB: Buffer pool(s) dump completed at 220510  2:50:43
+2022-05-10  2:50:44 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-05-10  2:50:44 0 [Note] InnoDB: Shutdown completed; log sequence number 596696; transaction id 919
+2022-05-10  2:50:44 0 [Note] c:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2022-05-10  2:50:53 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-05-10  2:50:53 0 [Note] InnoDB: Uses event mutexes
+2022-05-10  2:50:53 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-05-10  2:50:53 0 [Note] InnoDB: Number of pools: 1
+2022-05-10  2:50:53 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-05-10  2:50:53 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-05-10  2:50:53 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-05-10  2:50:53 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-05-10  2:50:53 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-05-10  2:50:53 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-05-10  2:50:53 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-05-10  2:50:53 0 [Note] InnoDB: Waiting for purge to start
+2022-05-10  2:50:53 0 [Note] InnoDB: 10.4.24 started; log sequence number 596696; transaction id 920
+2022-05-10  2:50:53 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-05-10  2:50:53 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-05-10  2:50:53 0 [Note] Server socket created on IP: '::'.
+2022-05-10  2:50:53 0 [Note] InnoDB: Buffer pool(s) load completed at 220510  2:50:53
+2022-05-10  2:50:53 0 [Note] Reading of all Master_info entries succeeded
+2022-05-10  2:50:53 0 [Note] Added new Master_info '' to hash table
+2022-05-10  2:50:53 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-05-10  3:04:25 0 [Note] c:\xampp\mysql\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-05-10  3:04:25 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-05-10  3:04:25 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-05-10  3:04:25 0 [Note] InnoDB: Starting shutdown...
+2022-05-10  3:04:25 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\mysql\data\ib_buffer_pool
+2022-05-10  3:04:25 0 [Note] InnoDB: Instance 0, restricted to 250 pages due to innodb_buf_pool_dump_pct=25
+2022-05-10  3:04:25 0 [Note] InnoDB: Buffer pool(s) dump completed at 220510  3:04:25
+2022-05-10  3:04:26 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-05-10  3:04:26 0 [Note] InnoDB: Shutdown completed; log sequence number 598740; transaction id 950
+2022-05-10  3:04:26 0 [Note] c:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2022-05-10 10:17:55 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-05-10 10:17:55 0 [Note] InnoDB: Uses event mutexes
+2022-05-10 10:17:55 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-05-10 10:17:55 0 [Note] InnoDB: Number of pools: 1
+2022-05-10 10:17:55 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-05-10 10:17:55 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-05-10 10:17:55 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-05-10 10:17:55 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-05-10 10:17:55 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-05-10 10:17:55 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-05-10 10:17:55 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-05-10 10:17:55 0 [Note] InnoDB: Waiting for purge to start
+2022-05-10 10:17:55 0 [Note] InnoDB: 10.4.24 started; log sequence number 598740; transaction id 951
+2022-05-10 10:17:55 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-05-10 10:17:55 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-05-10 10:17:55 0 [Note] Server socket created on IP: '::'.
+2022-05-10 10:17:55 0 [Note] Reading of all Master_info entries succeeded
+2022-05-10 10:17:55 0 [Note] Added new Master_info '' to hash table
+2022-05-10 10:17:55 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-05-10 10:17:55 0 [Note] InnoDB: Buffer pool(s) load completed at 220510 10:17:55
+2022-05-11  2:21:02 638 [Warning] Access denied for user 'login'@'localhost' (using password: NO)
+2022-05-11 14:28:54 1103 [Warning] Access denied for user 'login'@'localhost' (using password: NO)
+2022-05-11 15:24:05 1127 [Warning] Aborted connection 1127 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 15:26:24 1129 [Warning] Aborted connection 1129 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 15:33:44 1139 [Warning] Aborted connection 1139 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 15:56:08 1185 [Warning] Aborted connection 1185 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 15:59:32 1189 [Warning] Aborted connection 1189 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 16:00:29 1190 [Warning] Aborted connection 1190 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 16:00:32 1191 [Warning] Aborted connection 1191 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 16:01:09 1192 [Warning] Aborted connection 1192 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 16:01:28 1193 [Warning] Aborted connection 1193 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 16:21:24 1202 [Warning] Aborted connection 1202 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 16:21:50 1203 [Warning] Aborted connection 1203 to db: 'usersdata' user: 'login' host: 'localhost' (Got an error reading communication packets)
+2022-05-11 17:10:41 0 [Note] c:\xampp\mysql\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-05-11 17:10:41 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-05-11 17:10:41 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-05-11 17:10:41 0 [Note] InnoDB: Starting shutdown...
+2022-05-11 17:10:41 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\mysql\data\ib_buffer_pool
+2022-05-11 17:10:41 0 [Note] InnoDB: Instance 0, restricted to 250 pages due to innodb_buf_pool_dump_pct=25
+2022-05-11 17:10:41 0 [Note] InnoDB: Buffer pool(s) dump completed at 220511 17:10:41
+2022-05-11 17:10:42 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-05-11 17:10:42 0 [Note] InnoDB: Shutdown completed; log sequence number 618263; transaction id 1024
+2022-05-11 17:10:42 0 [Note] c:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2022-05-11 17:11:31 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-05-11 17:11:31 0 [Note] InnoDB: Uses event mutexes
+2022-05-11 17:11:31 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-05-11 17:11:31 0 [Note] InnoDB: Number of pools: 1
+2022-05-11 17:11:31 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-05-11 17:11:31 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-05-11 17:11:31 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-05-11 17:11:31 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-05-11 17:11:31 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-05-11 17:11:31 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-05-11 17:11:31 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-05-11 17:11:31 0 [Note] InnoDB: Waiting for purge to start
+2022-05-11 17:11:31 0 [Note] InnoDB: 10.4.24 started; log sequence number 618263; transaction id 1025
+2022-05-11 17:11:31 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-05-11 17:11:31 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-05-11 17:11:31 0 [Note] Server socket created on IP: '::'.
+2022-05-11 17:11:31 0 [Note] InnoDB: Buffer pool(s) load completed at 220511 17:11:31
+2022-05-11 17:11:31 0 [Note] Reading of all Master_info entries succeeded
+2022-05-11 17:11:31 0 [Note] Added new Master_info '' to hash table
+2022-05-11 17:11:31 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-05-11 20:03:46 794 [Warning] Access denied for user 'createid'@'localhost' (using password: YES)
+2022-05-11 22:48:10 1161 [Warning] Access denied for user 'login'@'localhost' (using password: YES)
+2022-05-11 23:00:47 0 [Note] c:\xampp\mysql\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-05-11 23:00:47 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-05-11 23:00:47 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-05-11 23:00:47 0 [Note] InnoDB: Starting shutdown...
+2022-05-11 23:00:47 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\mysql\data\ib_buffer_pool
+2022-05-11 23:00:47 0 [Note] InnoDB: Instance 0, restricted to 250 pages due to innodb_buf_pool_dump_pct=25
+2022-05-11 23:00:47 0 [Note] InnoDB: Buffer pool(s) dump completed at 220511 23:00:47
+2022-05-11 23:00:48 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-05-11 23:00:48 0 [Note] InnoDB: Shutdown completed; log sequence number 649191; transaction id 1149
+2022-05-11 23:00:48 0 [Note] c:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2022-05-11 23:00:50 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-05-11 23:00:50 0 [Note] InnoDB: Uses event mutexes
+2022-05-11 23:00:50 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-05-11 23:00:50 0 [Note] InnoDB: Number of pools: 1
+2022-05-11 23:00:50 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-05-11 23:00:50 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-05-11 23:00:50 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-05-11 23:00:50 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-05-11 23:00:50 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-05-11 23:00:50 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-05-11 23:00:50 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-05-11 23:00:50 0 [Note] InnoDB: Waiting for purge to start
+2022-05-11 23:00:50 0 [Note] InnoDB: 10.4.24 started; log sequence number 649191; transaction id 1150
+2022-05-11 23:00:50 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-05-11 23:00:50 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-05-11 23:00:50 0 [ERROR] c:\xampp\mysql\bin\mysqld.exe: unknown variable 'require_secure_transport=ON'
+2022-05-11 23:00:50 0 [ERROR] Aborting
+2022-05-11 23:05:18 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-05-11 23:05:18 0 [Note] InnoDB: Uses event mutexes
+2022-05-11 23:05:18 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-05-11 23:05:18 0 [Note] InnoDB: Number of pools: 1
+2022-05-11 23:05:18 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-05-11 23:05:18 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-05-11 23:05:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-05-11 23:05:18 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-05-11 23:05:18 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-05-11 23:05:18 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-05-11 23:05:18 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-05-11 23:05:18 0 [Note] InnoDB: 10.4.24 started; log sequence number 649200; transaction id 1150
+2022-05-11 23:05:18 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-05-11 23:05:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-05-11 23:05:18 0 [Note] Server socket created on IP: '::'.
+2022-05-11 23:05:18 0 [Note] Reading of all Master_info entries succeeded
+2022-05-11 23:05:18 0 [Note] Added new Master_info '' to hash table
+2022-05-11 23:05:18 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-05-11 23:05:18 0 [Note] InnoDB: Buffer pool(s) load completed at 220511 23:05:18
+2022-05-11 23:07:40 62 [Warning] Access denied for user 'login'@'localhost' (using password: YES)
+2022-05-11 23:24:38 0 [Note] c:\xampp\mysql\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-05-11 23:24:38 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-05-11 23:24:38 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-05-11 23:24:39 0 [Note] InnoDB: Starting shutdown...
+2022-05-11 23:24:39 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\mysql\data\ib_buffer_pool
+2022-05-11 23:24:39 0 [Note] InnoDB: Instance 0, restricted to 250 pages due to innodb_buf_pool_dump_pct=25
+2022-05-11 23:24:39 0 [Note] InnoDB: Buffer pool(s) dump completed at 220511 23:24:39
+2022-05-11 23:24:40 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-05-11 23:24:40 0 [Note] InnoDB: Shutdown completed; log sequence number 653030; transaction id 1183
+2022-05-11 23:24:40 0 [Note] c:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2022-05-11 23:25:03 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-05-11 23:25:03 0 [Note] InnoDB: Uses event mutexes
+2022-05-11 23:25:03 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-05-11 23:25:03 0 [Note] InnoDB: Number of pools: 1
+2022-05-11 23:25:03 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-05-11 23:25:03 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-05-11 23:25:03 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-05-11 23:25:03 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-05-11 23:25:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-05-11 23:25:03 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-05-11 23:25:03 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-05-11 23:25:03 0 [Note] InnoDB: 10.4.24 started; log sequence number 653030; transaction id 1183
+2022-05-11 23:25:03 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-05-11 23:25:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-05-11 23:25:03 0 [Note] Server socket created on IP: '::'.
+2022-05-11 23:25:03 0 [Note] Reading of all Master_info entries succeeded
+2022-05-11 23:25:03 0 [Note] Added new Master_info '' to hash table
+2022-05-11 23:25:03 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-05-11 23:25:03 0 [Note] InnoDB: Buffer pool(s) load completed at 220511 23:25:03
+2022-05-12 17:25:04 1073 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:05 1076 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:06 1079 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:10 1082 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:10 1085 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:17 1088 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:17 1091 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:18 1094 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:18 1097 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:20 1100 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:20 1103 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:25 1106 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:26 1109 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:27 1112 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:27 1115 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:29 1118 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:29 1121 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:33 1124 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:33 1127 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:34 1128 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:25:36 1129 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:36 1130 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:25:38 1131 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:25:38 1132 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:03 1133 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:03 1134 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:04 1135 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:04 1136 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:04 1137 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:04 1138 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:05 1139 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:05 1140 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:05 1141 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:05 1142 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:05 1143 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:05 1144 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:06 1145 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:06 1146 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:06 1147 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:06 1148 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:07 1149 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:07 1150 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:07 1151 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:07 1152 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:30 1153 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:30 1154 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:36 1155 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:36 1156 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:36 1157 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:36 1158 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:37 1159 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:37 1160 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:37 1161 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:37 1162 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:37 1163 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:37 1164 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:38 1165 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:38 1166 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:38 1167 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:38 1168 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:39 1169 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:39 1170 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:39 1171 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:39 1172 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:39 1173 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:39 1174 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:40 1175 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:40 1176 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:40 1177 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:40 1178 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:26:41 1179 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:26:41 1180 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:27:02 1181 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:27:02 1182 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:27:10 1183 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:27:10 1184 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:27:25 0 [Note] c:\xampp\mysql\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-05-12 17:27:25 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-05-12 17:27:26 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-05-12 17:27:26 0 [Note] InnoDB: Starting shutdown...
+2022-05-12 17:27:26 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\mysql\data\ib_buffer_pool
+2022-05-12 17:27:26 0 [Note] InnoDB: Instance 0, restricted to 250 pages due to innodb_buf_pool_dump_pct=25
+2022-05-12 17:27:26 0 [Note] InnoDB: Buffer pool(s) dump completed at 220512 17:27:26
+2022-05-12 17:27:27 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-05-12 17:27:27 0 [Note] InnoDB: Shutdown completed; log sequence number 705312; transaction id 1381
+2022-05-12 17:27:27 0 [Note] c:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2022-05-12 17:27:28 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-05-12 17:27:28 0 [Note] InnoDB: Uses event mutexes
+2022-05-12 17:27:28 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-05-12 17:27:28 0 [Note] InnoDB: Number of pools: 1
+2022-05-12 17:27:28 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-05-12 17:27:28 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-05-12 17:27:28 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-05-12 17:27:28 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-05-12 17:27:28 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-05-12 17:27:28 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-05-12 17:27:28 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-05-12 17:27:28 0 [Note] InnoDB: 10.4.24 started; log sequence number 705312; transaction id 1382
+2022-05-12 17:27:28 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-05-12 17:27:28 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-05-12 17:27:28 0 [Note] Server socket created on IP: '::'.
+2022-05-12 17:27:28 0 [Note] Reading of all Master_info entries succeeded
+2022-05-12 17:27:28 0 [Note] Added new Master_info '' to hash table
+2022-05-12 17:27:28 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-05-12 17:27:28 0 [Note] InnoDB: Buffer pool(s) load completed at 220512 17:27:28
+2022-05-12 17:27:35 8 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:27:35 9 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:27:53 10 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:27:53 11 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:27:54 12 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2022-05-12 17:27:54 13 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:29:10 15 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:29:11 17 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:29:12 19 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:29:13 21 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-05-12 17:51:03 0 [Note] c:\xampp\mysql\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-05-12 17:51:03 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-05-12 17:51:03 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-05-12 17:51:03 0 [Note] InnoDB: Starting shutdown...
+2022-05-12 17:51:03 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\mysql\data\ib_buffer_pool
+2022-05-12 17:51:03 0 [Note] InnoDB: Instance 0, restricted to 250 pages due to innodb_buf_pool_dump_pct=25
+2022-05-12 17:51:03 0 [Note] InnoDB: Buffer pool(s) dump completed at 220512 17:51:03
+2022-05-12 17:51:05 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-05-12 17:51:05 0 [Note] InnoDB: Shutdown completed; log sequence number 706072; transaction id 1408
+2022-05-12 17:51:05 0 [Note] c:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
